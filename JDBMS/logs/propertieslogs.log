@@ -1,0 +1,171 @@
+[ERROR] 2016-12-17 20:46:04.851 [main] JavaDriver - Invalid input query
+[ERROR] 2016-12-17 20:46:04.870 [main] JavaDriver - Invalid input query
+[ERROR] 2016-12-17 20:46:04.877 [main] JavaDriver - Invalid input query
+[ERROR] 2016-12-17 20:46:04.887 [main] JavaDriver - Invalid input query
+[ERROR] 2016-12-17 20:46:04.892 [main] JavaDriver - Invalid input query
+[ERROR] 2016-12-17 20:46:04.899 [main] JavaDriver - Invalid input query
+[ERROR] 2016-12-17 20:46:04.904 [main] JavaDriver - Invalid input query
+[ERROR] 2016-12-17 20:46:04.912 [main] JavaDriver - Invalid input query
+[ERROR] 2016-12-17 20:46:04.916 [main] JavaDriver - Invalid input query
+[ERROR] 2016-12-17 20:46:04.920 [main] JavaDriver - Invalid input query
+[ERROR] 2016-12-17 20:46:04.925 [main] JavaDriver - Invalid input query
+[ERROR] 2016-12-17 20:46:04.928 [main] JavaDriver - Invalid input query
+[ERROR] 2016-12-17 20:46:04.932 [main] JavaDriver - Invalid input query
+[ERROR] 2016-12-17 20:46:04.937 [main] JavaDriver - Invalid input query
+[ERROR] 2016-12-17 20:46:04.946 [main] JavaDriver - Invalid input query
+[ERROR] 2016-12-17 20:46:04.977 [main] JavaDriver - Invalid input query
+[ERROR] 2016-12-17 21:16:05.161 [main] JavaDriver - Invalid input query
+[ERROR] 2016-12-17 21:16:05.181 [main] JavaDriver - Invalid input query
+[ERROR] 2016-12-17 21:16:05.200 [main] JavaDriver - Invalid input query
+[ERROR] 2016-12-17 21:16:05.209 [main] JavaDriver - Invalid input query
+[ERROR] 2016-12-17 21:16:05.215 [main] JavaDriver - Invalid input query
+[ERROR] 2016-12-17 21:16:05.224 [main] JavaDriver - Invalid input query
+[ERROR] 2016-12-17 21:16:05.229 [main] JavaDriver - Invalid input query
+[ERROR] 2016-12-17 21:16:05.242 [main] JavaDriver - Invalid input query
+[ERROR] 2016-12-17 21:16:05.246 [main] JavaDriver - Invalid input query
+[ERROR] 2016-12-17 21:16:05.255 [main] JavaDriver - Invalid input query
+[ERROR] 2016-12-17 21:16:05.261 [main] JavaDriver - Invalid input query
+[ERROR] 2016-12-17 21:16:05.272 [main] JavaDriver - Invalid input query
+[ERROR] 2016-12-17 21:16:05.293 [main] JavaDriver - Invalid input query
+[ERROR] 2016-12-17 21:16:05.311 [main] JavaDriver - Invalid input query
+[ERROR] 2016-12-17 21:16:05.327 [main] JavaDriver - Invalid input query
+[ERROR] 2016-12-17 21:16:05.336 [main] JavaDriver - Invalid input query
+[ERROR] 2016-12-17 21:19:11.159 [main] JavaDriver - Invalid input query
+[ERROR] 2016-12-17 21:32:57.151 [main] JavaDriver - Invalid input query
+[ERROR] 2016-12-17 21:33:21.002 [main] JavaDriver - Invalid input query
+[ERROR] 2016-12-17 21:33:51.270 [main] JavaDriver - Invalid input query
+[ERROR] 2016-12-17 21:33:51.298 [main] JavaDriver - Invalid input query
+[ERROR] 2016-12-17 21:33:51.312 [main] JavaDriver - Invalid input query
+[ERROR] 2016-12-17 21:33:51.326 [main] JavaDriver - Invalid input query
+[ERROR] 2016-12-17 21:33:51.336 [main] JavaDriver - Invalid input query
+[ERROR] 2016-12-17 21:33:51.342 [main] JavaDriver - Invalid input query
+[ERROR] 2016-12-17 21:33:51.347 [main] JavaDriver - Invalid input query
+[ERROR] 2016-12-17 21:33:51.360 [main] JavaDriver - Invalid input query
+[ERROR] 2016-12-17 21:33:51.367 [main] JavaDriver - Invalid input query
+[ERROR] 2016-12-17 21:33:51.373 [main] JavaDriver - Invalid input query
+[ERROR] 2016-12-17 21:33:51.388 [main] JavaDriver - Invalid input query
+[ERROR] 2016-12-17 21:33:51.396 [main] JavaDriver - Invalid input query
+[ERROR] 2016-12-17 21:33:51.418 [main] JavaDriver - Invalid input query
+[ERROR] 2016-12-17 21:33:51.424 [main] JavaDriver - Invalid input query
+[ERROR] 2016-12-17 21:33:51.439 [main] JavaDriver - Invalid input query
+[ERROR] 2016-12-17 21:33:51.446 [main] JavaDriver - Invalid input query
+[ERROR] 2016-12-17 23:22:51.450 [main] JavaDriver - Error in execution
+[ERROR] 2016-12-17 23:22:51.947 [main] JavaDriver - Execution isn't done
+[ERROR] 2016-12-17 23:22:51.948 [main] JavaDriver - Execution isn't done
+[ERROR] 2016-12-17 23:22:52.978 [main] JavaDriver - Execution isn't done
+[ERROR] 2016-12-18 00:02:02.753 [main] JavaDriver - Execution isn't done
+[ERROR] 2016-12-18 00:02:38.371 [main] JavaDriver - Execution isn't done
+[ERROR] 2016-12-18 00:04:23.987 [main] JavaDriver - Execution isn't done
+[ERROR] 2016-12-18 00:07:08.506 [main] JavaDriver - Execution isn't done
+[ERROR] 2016-12-26 18:20:51.818 [main] JavaDriver - This name is taken by another file
+[ERROR] 2016-12-26 18:22:02.173 [main] JavaDriver - This name is taken by another file
+[ERROR] 2016-12-26 18:23:17.479 [main] JavaDriver - This name is taken by another file
+[ERROR] 2016-12-26 18:34:41.703 [main] JavaDriver - This name is taken by another file
+[INFO ] 2016-12-27 13:00:51.708 [main] JavaDriver - A JDBC has been created
+[INFO ] 2016-12-27 13:00:51.800 [main] JavaDriver - Connection created successfully
+[INFO ] 2016-12-27 13:00:52.350 [main] JavaDriver - Execute only support Select
+[INFO ] 2016-12-27 13:00:52.351 [main] JavaDriver - Execute only support Select
+[INFO ] 2016-12-27 13:00:52.353 [main] JavaDriver - Statement is closed
+[ERROR] 2016-12-27 13:00:52.397 [main] JavaDriver - Execution isn't done
+[INFO ] 2016-12-27 13:00:52.513 [main] JavaDriver - A JDBC has been created
+[INFO ] 2016-12-27 13:00:52.514 [main] JavaDriver - Connection created successfully
+[INFO ] 2016-12-27 13:00:52.515 [main] JavaDriver - Execute only support Select
+[INFO ] 2016-12-27 13:00:52.516 [main] JavaDriver - Execute only support Select
+[INFO ] 2016-12-27 13:00:52.516 [main] JavaDriver - Statement is closed
+[ERROR] 2016-12-27 13:00:52.525 [main] JavaDriver - Execution isn't done
+[INFO ] 2016-12-27 13:00:52.562 [main] JavaDriver - A JDBC has been created
+[INFO ] 2016-12-27 13:00:52.563 [main] JavaDriver - Connection created successfully
+[INFO ] 2016-12-27 13:00:52.564 [main] JavaDriver - Execute only support Select
+[INFO ] 2016-12-27 13:00:52.565 [main] JavaDriver - Execute only support Select
+[INFO ] 2016-12-27 13:00:52.566 [main] JavaDriver - Statement is closed
+[ERROR] 2016-12-27 13:00:52.569 [main] JavaDriver - Execution isn't done
+[INFO ] 2016-12-27 13:00:52.587 [main] JavaDriver - A JDBC has been created
+[INFO ] 2016-12-27 13:00:52.588 [main] JavaDriver - Connection created successfully
+[INFO ] 2016-12-27 13:00:52.590 [main] JavaDriver - Execute only support Select
+[INFO ] 2016-12-27 13:00:52.591 [main] JavaDriver - Execute only support Select
+[INFO ] 2016-12-27 13:00:52.591 [main] JavaDriver - Statement is closed
+[ERROR] 2016-12-27 13:00:52.595 [main] JavaDriver - Execution isn't done
+[INFO ] 2016-12-27 13:00:52.620 [main] JavaDriver - A JDBC has been created
+[INFO ] 2016-12-27 13:00:52.621 [main] JavaDriver - Connection created successfully
+[INFO ] 2016-12-27 13:00:52.628 [main] JavaDriver - Execute only support Select
+[INFO ] 2016-12-27 13:00:52.630 [main] JavaDriver - Execute only support Select
+[INFO ] 2016-12-27 13:00:52.630 [main] JavaDriver - Statement is closed
+[ERROR] 2016-12-27 13:00:52.654 [main] JavaDriver - Execution isn't done
+[INFO ] 2016-12-27 13:00:52.662 [main] JavaDriver - A JDBC has been created
+[INFO ] 2016-12-27 13:00:52.663 [main] JavaDriver - Connection created successfully
+[INFO ] 2016-12-27 13:00:52.667 [main] JavaDriver - Execute only support Select
+[INFO ] 2016-12-27 13:00:52.668 [main] JavaDriver - Execute only support Select
+[INFO ] 2016-12-27 13:00:52.669 [main] JavaDriver - Statement is closed
+[ERROR] 2016-12-27 13:00:52.672 [main] JavaDriver - Execution isn't done
+[INFO ] 2016-12-27 13:00:52.693 [main] JavaDriver - A JDBC has been created
+[INFO ] 2016-12-27 13:00:52.694 [main] JavaDriver - Connection created successfully
+[INFO ] 2016-12-27 13:00:52.699 [main] JavaDriver - Execute only support Select
+[INFO ] 2016-12-27 13:00:52.700 [main] JavaDriver - Execute only support Select
+[INFO ] 2016-12-27 13:00:52.700 [main] JavaDriver - Statement is closed
+[ERROR] 2016-12-27 13:00:52.702 [main] JavaDriver - Execution isn't done
+[INFO ] 2016-12-27 13:00:52.716 [main] JavaDriver - A JDBC has been created
+[INFO ] 2016-12-27 13:00:52.717 [main] JavaDriver - Connection created successfully
+[INFO ] 2016-12-27 13:00:52.719 [main] JavaDriver - Execute only support Select
+[INFO ] 2016-12-27 13:00:52.719 [main] JavaDriver - Execute only support Select
+[INFO ] 2016-12-27 13:00:52.720 [main] JavaDriver - Statement is closed
+[ERROR] 2016-12-27 13:00:52.731 [main] JavaDriver - Execution isn't done
+[INFO ] 2016-12-27 13:00:52.775 [main] JavaDriver - A JDBC has been created
+[INFO ] 2016-12-27 13:00:52.776 [main] JavaDriver - Connection created successfully
+[INFO ] 2016-12-27 13:00:52.777 [main] JavaDriver - Execute only support Select
+[INFO ] 2016-12-27 13:00:52.777 [main] JavaDriver - Execute only support Select
+[INFO ] 2016-12-27 13:00:52.778 [main] JavaDriver - Statement is closed
+[ERROR] 2016-12-27 13:00:52.779 [main] JavaDriver - Execution isn't done
+[INFO ] 2016-12-27 13:00:52.787 [main] JavaDriver - A JDBC has been created
+[INFO ] 2016-12-27 13:00:52.788 [main] JavaDriver - Connection created successfully
+[INFO ] 2016-12-27 13:00:52.788 [main] JavaDriver - Execute only support Select
+[INFO ] 2016-12-27 13:00:52.789 [main] JavaDriver - Execute only support Select
+[INFO ] 2016-12-27 13:00:52.789 [main] JavaDriver - Statement is closed
+[ERROR] 2016-12-27 13:00:52.790 [main] JavaDriver - Execution isn't done
+[INFO ] 2016-12-27 13:00:52.799 [main] JavaDriver - A JDBC has been created
+[INFO ] 2016-12-27 13:00:52.799 [main] JavaDriver - Connection created successfully
+[INFO ] 2016-12-27 13:00:52.800 [main] JavaDriver - Execute only support Select
+[INFO ] 2016-12-27 13:00:52.801 [main] JavaDriver - Execute only support Select
+[INFO ] 2016-12-27 13:00:52.803 [main] JavaDriver - Statement is closed
+[ERROR] 2016-12-27 13:00:52.806 [main] JavaDriver - Execution isn't done
+[INFO ] 2016-12-27 13:00:52.809 [main] JavaDriver - A JDBC has been created
+[INFO ] 2016-12-27 13:00:52.810 [main] JavaDriver - Connection created successfully
+[INFO ] 2016-12-27 13:00:52.812 [main] JavaDriver - Execute only support Select
+[INFO ] 2016-12-27 13:00:52.812 [main] JavaDriver - Execute only support Select
+[INFO ] 2016-12-27 13:00:52.812 [main] JavaDriver - Statement is closed
+[ERROR] 2016-12-27 13:00:52.813 [main] JavaDriver - Execution isn't done
+[INFO ] 2016-12-27 13:00:52.818 [main] JavaDriver - A JDBC has been created
+[INFO ] 2016-12-27 13:00:52.818 [main] JavaDriver - Connection created successfully
+[INFO ] 2016-12-27 13:00:52.819 [main] JavaDriver - Execute only support Select
+[INFO ] 2016-12-27 13:00:52.819 [main] JavaDriver - Execute only support Select
+[INFO ] 2016-12-27 13:00:52.819 [main] JavaDriver - Statement is closed
+[ERROR] 2016-12-27 13:00:52.821 [main] JavaDriver - Execution isn't done
+[INFO ] 2016-12-27 13:00:52.825 [main] JavaDriver - A JDBC has been created
+[INFO ] 2016-12-27 13:00:52.826 [main] JavaDriver - Connection created successfully
+[INFO ] 2016-12-27 13:00:52.830 [main] JavaDriver - Execute only support Select
+[INFO ] 2016-12-27 13:00:52.830 [main] JavaDriver - Execute only support Select
+[INFO ] 2016-12-27 13:00:52.831 [main] JavaDriver - Statement is closed
+[ERROR] 2016-12-27 13:00:52.832 [main] JavaDriver - Execution isn't done
+[INFO ] 2016-12-27 13:00:52.867 [main] JavaDriver - A JDBC has been created
+[INFO ] 2016-12-27 13:00:52.867 [main] JavaDriver - Connection created successfully
+[INFO ] 2016-12-27 13:00:52.870 [main] JavaDriver - Execute only support Select
+[INFO ] 2016-12-27 13:00:52.871 [main] JavaDriver - Execute only support Select
+[INFO ] 2016-12-27 13:00:52.871 [main] JavaDriver - Statement is closed
+[ERROR] 2016-12-27 13:00:52.873 [main] JavaDriver - Execution isn't done
+[INFO ] 2016-12-27 13:00:52.874 [main] JavaDriver - Connection closed sucessfully
+[INFO ] 2016-12-27 13:00:52.875 [main] JavaDriver - A JDBC has been created
+[INFO ] 2016-12-27 13:00:52.876 [main] JavaDriver - Connection created successfully
+[INFO ] 2016-12-27 13:00:52.877 [main] JavaDriver - Execute only support Select
+[INFO ] 2016-12-27 13:00:52.877 [main] JavaDriver - Execute only support Select
+[INFO ] 2016-12-27 13:00:52.877 [main] JavaDriver - Statement is closed
+[ERROR] 2016-12-27 13:00:52.905 [main] JavaDriver - Execution isn't done
+[INFO ] 2016-12-27 13:04:52.195 [main] JavaDriver - A JDBC has been created
+[INFO ] 2016-12-27 13:05:32.958 [main] JavaDriver - Connection created successfully
+[INFO ] 2016-12-27 13:05:43.889 [main] JavaDriver - Execute only support Select
+[ERROR] 2016-12-27 13:06:07.866 [main] JavaDriver - Execution isn't done
+[INFO ] 2016-12-27 13:06:28.428 [main] JavaDriver - Execute only support Select
+[INFO ] 2016-12-27 13:06:37.512 [main] JavaDriver - Execute only support Select
+[INFO ] 2016-12-27 13:07:00.938 [main] JavaDriver - A JDBC has been created
+[INFO ] 2016-12-27 13:07:48.018 [main] JavaDriver - Connection created successfully
+[INFO ] 2016-12-27 13:07:58.368 [main] JavaDriver - Execute only support Select
+[INFO ] 2016-12-27 13:08:01.732 [main] JavaDriver - Execute only support Select
+[INFO ] 2016-12-27 13:08:14.012 [main] JavaDriver - Execute only support Select
